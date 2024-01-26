@@ -19,7 +19,7 @@ To use the code, download the scripts. Next, make any necessary adjustments you 
 
 ## Prerequisites
 
-Ensure Matlab is operational on your device. 
+Ensure Matlab is operational on your device. This code was generated to work with MATLAB 2022b.
 
 ## Installation
 
