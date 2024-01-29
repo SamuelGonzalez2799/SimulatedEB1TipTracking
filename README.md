@@ -17,13 +17,14 @@ The general way the code works is the top level script just feeds the user varia
 MATLAB by Mathworks.
 
 ## Getting Started
+To get started, download this Github repository as a zipped file by downloading it from the "code" dropdown menu, unzip the file locally, and save it in an accessible location.  
 
-To use the code, download the scripts. Next, make any necessary adjustments you want to parameters and adjust file names. Finally, running the script should start to generate simulaton data that will eventually be saved as excel files, two of which are used for downstream simulated image generation. Of note, there are no files that you need to input for this script and rather the only inputs are any adjustments you would like to make to the output file names and the input parameters. 
+To use the code, make any necessary adjustments you want to parameters and adjust file names. Finally, running the script should start to generate simulaton data that will eventually be saved as excel files, two of which are used for downstream simulated image generation. Of note, there are no files that you need to input for this script and rather the only inputs are any adjustments you would like to make to the output file names and the input parameters. 
 
 
 ## Prerequisites
 
-Ensure Matlab is operational on your device. This code was generated to work with MATLAB 2022b.
+Ensure Matlab is operational on your device. This code was generated to work with MATLAB 2022b and should work with newer versions of Matlab. 
 
 ## Installation
 
